@@ -1,0 +1,85 @@
+#resultado{
+    margin-left: 0px;
+    width: 310px;
+    height: 70px;
+    text-align: right;
+    font-size: 35px;
+    border: none;
+    color: black;
+}
+
+#division, #multiplicacion, #resta, #suma{
+    width: 70px;
+    height: 70px;
+    margin: 6px;
+    text-align: center;
+    text-shadow: ivory;
+    background-color: rgb(255, 255, 255);
+    color: rgb(20, 93, 141);
+    font-size: 18px;
+    border: 2px solid rgb(114, 159, 211);
+    
+}
+
+.caja{
+    padding-top: 80px;
+    padding-left: 125px;
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 580px;
+    height: 580px;
+    border: 8px double rgb(148,187,233,1);
+    background: rgb(174,238,237);
+    background: radial-gradient(circle, rgba(174,238,237,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 100%;
+}
+
+#nueve, #ocho, #siete, #seis, #cinco, #cuatro, #tres, #dos, #uno, #cero{
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+    text-align: center;
+    font-size: 40px;
+    border: none;
+    border-radius: 30%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(20, 93, 141);
+}
+
+#punto{
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+    text-align: center;
+    color: rgb(114, 159, 211);
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+
+#igual{
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+    text-align: center;
+    text-shadow: ivory;
+    background-color: rgb(114, 159, 211);
+    color: rgb(243, 243, 243);
+    font-size: 25px;
+    border: none;
+}
+
+#reset{
+    width: 310px;
+    height: 30px;
+    margin: 2px;
+    float: none;
+    text-align: center;
+    text-shadow: ivory;
+    background-color: rgb(114, 159, 211);
+    color: rgb(243, 243, 243);
+    font-size: auto;
+    border: none;
+}
+
+
